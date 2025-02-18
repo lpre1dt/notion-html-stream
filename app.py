@@ -94,7 +94,7 @@ def get_page_content(page_id, headers):
                     block_content += styled_text
 
             if block_type == "heading_1":
-                content += f"<h1 style='color: #3498db; font-size: 2.5em; text-align: center; background-color: #f0f0f0; padding: 10px; border-radius: 5px;'>{block_content}</h1>\n"
+                content += f"<h1>{block_content}</h1>\n"
             elif block_type == "heading_2":
                 content += f"<h2>{block_content}</h2>\n"
             elif block_type == "heading_3":
