@@ -1,0 +1,1419 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "block",
+            "id": "0e4ec0a0-d80d-40b7-be3f-54fcdaa447a9",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-13T21:16:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "heading_1",
+            "heading_1": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Es bleibt alles so wie es ist, egal ob du Public Cloud bist und nicht - KW 16",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Es bleibt alles so wie es ist, egal ob du Public Cloud bist und nicht - KW 16",
+                        "href": null
+                    }
+                ],
+                "is_toggleable": false,
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "fec586fe-1335-47e9-a997-84a9a9438f35",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-08T10:32:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Langsam kann man sich ein Leben ohne diesen Newsletter kaum vorstellen. Willkommen zu Ausgabe 2!",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Langsam kann man sich ein Leben ohne diesen Newsletter kaum vorstellen. Willkommen zu Ausgabe 2!",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "17522682-53ab-80e7-9868-cd74642ebe19",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:32:00.000Z",
+            "last_edited_time": "2025-01-08T10:34:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Diese Woche hab ich mir wieder einige Gedanken gemacht, welcher Content interessant sein könnte. In der Rubrik “SAP Community Beitrag der Woche” gibt es dieses mal ein echtes Schmankerl.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Diese Woche hab ich mir wieder einige Gedanken gemacht, welcher Content interessant sein könnte. In der Rubrik “SAP Community Beitrag der Woche” gibt es dieses mal ein echtes Schmankerl.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "d754fe24-315d-4cde-b188-abb1dda8dae7",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-08T10:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "heading_2",
+            "heading_2": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "SAP Community Beitrag der Woche",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "SAP Community Beitrag der Woche",
+                        "href": null
+                    }
+                ],
+                "is_toggleable": false,
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "add69565-7bc3-45a7-9d0d-1455cbedaa20",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-13T21:11:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Mir kommt es so vor, als liest man auf LinkedIn das Wort Clean Core überall. Wenn man sich die Statistiken anschaut, wird deutlich, dass der Umsatzanteil in der Cloud anteilig immer größer am Gesamtumsatz der SAP wird. Wenn man allein die Wachstumsentwicklung der letzten fünf Jahre aus dem Cloudgeschäft der SAP betrachtet, lässt sich erahnen, wo die Reise hingeht - in die Public Cloud.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Mir kommt es so vor, als liest man auf LinkedIn das Wort Clean Core überall. Wenn man sich die Statistiken anschaut, wird deutlich, dass der Umsatzanteil in der Cloud anteilig immer größer am Gesamtumsatz der SAP wird. Wenn man allein die Wachstumsentwicklung der letzten fünf Jahre aus dem Cloudgeschäft der SAP betrachtet, lässt sich erahnen, wo die Reise hingeht - in die Public Cloud.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "17622682-53ab-80b5-a0c5-e27d2b5e3d52",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-09T09:43:00.000Z",
+            "last_edited_time": "2025-01-09T09:43:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                    "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/840c319f-fd34-49d6-8d2c-f275ef4bbe52/d69361f6-8be6-496b-9802-000dcb1b6b9e/statistic_id1391201_saps-cloud-revenue-2019-2025.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666W5VI7IG%2F20250216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250216T204511Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDwaCXVzLXdlc3QtMiJHMEUCIQD5CzU7GvoHgc42Cb6jKYztf41AEwIW88uMAN0m8egRdwIgezCv3ovl58Fs35XWfNNXyxjGfunBhMQ92QVPp1ELYDUq%2FwMIZRAAGgw2Mzc0MjMxODM4MDUiDMaJD%2BMI9wuvMvI9pyrcAx2qgLEAcB1fJMD5I%2BIW4SWYF3q%2F0cRDBxH1Uv2OsddjnINAHja7yOHHIlj%2Fhf2NG6BkcdyOIlFLPa6xHgAWdQzRazDihF9%2FwZfUCM8TzPelHUXBFbOVimSqwCH3l4WmegFxKAIeZgArUqP%2Fg9srwUNa6OjGkMxngvSwoXr%2B3024HspUWDBUc4RKm83kCrvwAwRTexLyQ4EyxTFUmoRfO0y3hh6VnxRTORZdhC0V8vbcJYGB8ssWLJSJ5S%2B8cB8OYU%2BVpVEoBmZuSeO3iZXPRLbjChwll%2B4Q4LejrSS9%2Fd1HwrpakL7pa83yOaJWZNhS4QT0BDVcZuVuNnkjT0lc9fsiCh2HrXNNg%2BRuYr3neE1enx1HLprld26feb%2B3k9d73tAipAuZ6rpkhBX3QO63TiHS%2BxHA5QKa%2BJsHEN7CniT%2BMkmYHN1OdngLP4WQKmPrKn58jG4MP5ITPGkDUQ%2BSnUfYlIs7DX2GIt1sBgpihFBgWMdmcMu6eTOu0WbfEJnx1CTH2qmybspYsQ%2FFD3QUZ71vMTiawsBmlclUbgaqeir9uyb5rylaMP7kuRzMeN0gMD0nulDpqfIHe%2FVMu3I%2BmbyUGAHUaDJwTYUo4V9LZSkYGRv0cJ47AHJMINoVML2Iyb0GOqUBs0lSSSTniXt40asQE06a%2F3O0Kp7Sr5JunrVcGmPDGHqsHM2k0IPpRMYjGnz%2BArmHhxkvqQPUiMjiAHlMVHnj0iIkaBo3BKkg0smW7rU8x1DF1XDpKyKMqnFJ6Wjs9m%2BCmAFgkuGVQUvY0vba8jeyHRTmApVgkrJMBfLhy4M5%2Fda8Q5%2FuKbcVgRuDnK%2BG2Jn483DDNjnR99RP0FaT%2FYWjRCw6U413&X-Amz-Signature=a1085ec7deb6f40bc86335842b32e0abd14371b4f432c6aaa1f4b0e410666ef0&X-Amz-SignedHeaders=host&x-id=GetObject",
+                    "expiry_time": "2025-02-16T21:45:11.630Z"
+                }
+            }
+        },
+        {
+            "object": "block",
+            "id": "17622682-53ab-809f-89ae-e578d699362c",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-09T09:32:00.000Z",
+            "last_edited_time": "2025-01-09T09:32:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": " ",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": " ",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "17622682-53ab-8044-98ab-c0358b038892",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-09T09:33:00.000Z",
+            "last_edited_time": "2025-01-09T09:33:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Quelle: ",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Quelle: ",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "SAP cloud revenue 2025 | Statista",
+                            "link": {
+                                "url": "https://www.statista.com/statistics/1391201/sap-cloud-revenue/"
+                            }
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "SAP cloud revenue 2025 | Statista",
+                        "href": "https://www.statista.com/statistics/1391201/sap-cloud-revenue/"
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "17622682-53ab-8079-9df4-c06ad7bf0909",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-09T09:42:00.000Z",
+            "last_edited_time": "2025-01-13T20:46:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "image",
+            "image": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                    "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/840c319f-fd34-49d6-8d2c-f275ef4bbe52/0f2d859e-3537-401c-b616-35b1c155f0f9/statistic_id263838_saps-global-revenue-2001-2023.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666W5VI7IG%2F20250216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250216T204511Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDwaCXVzLXdlc3QtMiJHMEUCIQD5CzU7GvoHgc42Cb6jKYztf41AEwIW88uMAN0m8egRdwIgezCv3ovl58Fs35XWfNNXyxjGfunBhMQ92QVPp1ELYDUq%2FwMIZRAAGgw2Mzc0MjMxODM4MDUiDMaJD%2BMI9wuvMvI9pyrcAx2qgLEAcB1fJMD5I%2BIW4SWYF3q%2F0cRDBxH1Uv2OsddjnINAHja7yOHHIlj%2Fhf2NG6BkcdyOIlFLPa6xHgAWdQzRazDihF9%2FwZfUCM8TzPelHUXBFbOVimSqwCH3l4WmegFxKAIeZgArUqP%2Fg9srwUNa6OjGkMxngvSwoXr%2B3024HspUWDBUc4RKm83kCrvwAwRTexLyQ4EyxTFUmoRfO0y3hh6VnxRTORZdhC0V8vbcJYGB8ssWLJSJ5S%2B8cB8OYU%2BVpVEoBmZuSeO3iZXPRLbjChwll%2B4Q4LejrSS9%2Fd1HwrpakL7pa83yOaJWZNhS4QT0BDVcZuVuNnkjT0lc9fsiCh2HrXNNg%2BRuYr3neE1enx1HLprld26feb%2B3k9d73tAipAuZ6rpkhBX3QO63TiHS%2BxHA5QKa%2BJsHEN7CniT%2BMkmYHN1OdngLP4WQKmPrKn58jG4MP5ITPGkDUQ%2BSnUfYlIs7DX2GIt1sBgpihFBgWMdmcMu6eTOu0WbfEJnx1CTH2qmybspYsQ%2FFD3QUZ71vMTiawsBmlclUbgaqeir9uyb5rylaMP7kuRzMeN0gMD0nulDpqfIHe%2FVMu3I%2BmbyUGAHUaDJwTYUo4V9LZSkYGRv0cJ47AHJMINoVML2Iyb0GOqUBs0lSSSTniXt40asQE06a%2F3O0Kp7Sr5JunrVcGmPDGHqsHM2k0IPpRMYjGnz%2BArmHhxkvqQPUiMjiAHlMVHnj0iIkaBo3BKkg0smW7rU8x1DF1XDpKyKMqnFJ6Wjs9m%2BCmAFgkuGVQUvY0vba8jeyHRTmApVgkrJMBfLhy4M5%2Fda8Q5%2FuKbcVgRuDnK%2BG2Jn483DDNjnR99RP0FaT%2FYWjRCw6U413&X-Amz-Signature=1ceea3de3a6853aa6bc84bf4ee6c3b1c73d4f2a218c775713013d89ba940319d&X-Amz-SignedHeaders=host&x-id=GetObject",
+                    "expiry_time": "2025-02-16T21:45:11.636Z"
+                }
+            }
+        },
+        {
+            "object": "block",
+            "id": "17622682-53ab-8006-9af1-c41e9af2a8ab",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-09T09:39:00.000Z",
+            "last_edited_time": "2025-01-09T09:41:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Quelle: ",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Quelle: ",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "SAP global revenue 2023 | Statista",
+                            "link": {
+                                "url": "https://www.statista.com/statistics/263838/saps-global-revenue-since-2001/"
+                            }
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "SAP global revenue 2023 | Statista",
+                        "href": "https://www.statista.com/statistics/263838/saps-global-revenue-since-2001/"
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "17a22682-53ab-80e2-a4b0-c622d6e9f843",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-13T21:04:00.000Z",
+            "last_edited_time": "2025-01-13T21:04:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Uns Entwickler kann das vor Herausforderungen stellen. Viele haben einen Erfahrungshintergrund im On-Premise-Umfeld und stehen plötzlich zum ersten Mal vor einer Public-Cloud-Transformation.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Uns Entwickler kann das vor Herausforderungen stellen. Viele haben einen Erfahrungshintergrund im On-Premise-Umfeld und stehen plötzlich zum ersten Mal vor einer Public-Cloud-Transformation.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "17a22682-53ab-8064-b978-dce65911cab1",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-13T21:04:00.000Z",
+            "last_edited_time": "2025-01-13T21:04:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Was nun? Ich meine, einfach so weitermachen geht ja nicht?! - Vielleicht ein bisschen. Immerhin ist ein S/4HANA Public-Cloud-System noch immer ein ERP-System, in dem ERP-System-Dinge erledigt werden müssen. Nur eben auf Public-Cloud-Art.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Was nun? Ich meine, einfach so weitermachen geht ja nicht?! - Vielleicht ein bisschen. Immerhin ist ein S/4HANA Public-Cloud-System noch immer ein ERP-System, in dem ERP-System-Dinge erledigt werden müssen. Nur eben auf Public-Cloud-Art.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "17a22682-53ab-8055-91ee-f5779e4e9281",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-13T21:04:00.000Z",
+            "last_edited_time": "2025-01-13T21:04:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Das heißt also, dass man vielleicht doch nicht von allen Dingen Abschied nehmen muss, sondern einfach lernen muss, wie sie in der Cloud funktionieren.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Das heißt also, dass man vielleicht doch nicht von allen Dingen Abschied nehmen muss, sondern einfach lernen muss, wie sie in der Cloud funktionieren.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "17a22682-53ab-8059-a5c5-d8f145ae0661",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-13T21:04:00.000Z",
+            "last_edited_time": "2025-01-13T21:04:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Eines dieser Dinge sind Background Jobs. Ob sie automatisiert Stammdaten generieren oder Mails versenden, sie sind aus einem SAP-System nicht wegzudenken. In der On-Premise-Welt wurden dafür einfach ABAP-Reports erstellt, deren Ausführung geplant wurde. In der Public-Cloud-Welt geht das leider nicht mehr. Dafür gibt es eine tolle, moderne, objektorientierte Lösung, mit der sich Background Jobs erstellen lassen. Wie das funktioniert, wird in diesem Blog beschrieben. Dabei wird nicht nur die Entwicklung veranschaulicht, sondern auch erklärt, wie man diese neuen Jobs einplanen kann und wie sie sich von ihren Vorgängern aus der On-Premise-Welt unterscheiden.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Eines dieser Dinge sind Background Jobs. Ob sie automatisiert Stammdaten generieren oder Mails versenden, sie sind aus einem SAP-System nicht wegzudenken. In der On-Premise-Welt wurden dafür einfach ABAP-Reports erstellt, deren Ausführung geplant wurde. In der Public-Cloud-Welt geht das leider nicht mehr. Dafür gibt es eine tolle, moderne, objektorientierte Lösung, mit der sich Background Jobs erstellen lassen. Wie das funktioniert, wird in diesem Blog beschrieben. Dabei wird nicht nur die Entwicklung veranschaulicht, sondern auch erklärt, wie man diese neuen Jobs einplanen kann und wie sie sich von ihren Vorgängern aus der On-Premise-Welt unterscheiden.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "17a22682-53ab-8038-899f-ee3dd0aa5899",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-13T21:04:00.000Z",
+            "last_edited_time": "2025-01-13T21:04:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Eine absolute Leseempfehlung!",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Eine absolute Leseempfehlung!",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "17622682-53ab-8056-9aae-dc33df4cb1de",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-09T09:02:00.000Z",
+            "last_edited_time": "2025-01-09T09:02:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Zum Bog Artikel:",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Zum Bog Artikel:",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "17622682-53ab-8063-b2f7-f8d3629d41de",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-09T09:02:00.000Z",
+            "last_edited_time": "2025-01-09T09:02:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "https://community.sap.com/t5/technology-blogs-by-sap/transforming-classic-abap-to-abap-cloud-from-background-jobs-to-application/ba-p/13969515",
+                            "link": {
+                                "url": "https://community.sap.com/t5/technology-blogs-by-sap/transforming-classic-abap-to-abap-cloud-from-background-jobs-to-application/ba-p/13969515"
+                            }
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "https://community.sap.com/t5/technology-blogs-by-sap/transforming-classic-abap-to-abap-cloud-from-background-jobs-to-application/ba-p/13969515",
+                        "href": "https://community.sap.com/t5/technology-blogs-by-sap/transforming-classic-abap-to-abap-cloud-from-background-jobs-to-application/ba-p/13969515"
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "0612201c-5b89-4254-abd6-8073c4016cde",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-08T10:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "heading_2",
+            "heading_2": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Tech Snack",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Tech Snack",
+                        "href": null
+                    }
+                ],
+                "is_toggleable": false,
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "504734ef-1507-4948-8b69-358d8768d910",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-13T21:15:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Diese Woche gibt es als Tech Snack etwas kleines, also einen echten Snack. Ich habe mir überlegt, dass ich einfach etwas modernes ABAP vorstelle. In den letzten Jahren wurde die Sprache stark erweitert und es lassen sich viele Zeilen Code sparen, wenn man die richtigen Statements sinnvoll einsetzt.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Diese Woche gibt es als Tech Snack etwas kleines, also einen echten Snack. Ich habe mir überlegt, dass ich einfach etwas modernes ABAP vorstelle. In den letzten Jahren wurde die Sprache stark erweitert und es lassen sich viele Zeilen Code sparen, wenn man die richtigen Statements sinnvoll einsetzt.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "308bcdc3-5d28-4ac9-9420-3cf79e44aa88",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-08T10:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "code",
+            "code": {
+                "caption": [],
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "REPORT zbc_extract.\nPARAMETERS p_anz TYPE i.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "REPORT zbc_extract.\nPARAMETERS p_anz TYPE i.",
+                        "href": null
+                    }
+                ],
+                "language": "abap"
+            }
+        },
+        {
+            "object": "block",
+            "id": "bff79f03-0d5a-4004-869b-17bc2ff40de9",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-08T10:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "29c929f9-25f4-41aa-b5e9-f1501318cd21",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-08T10:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "heading_2",
+            "heading_2": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Was sonst so in der Woche geschehen ist",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Was sonst so in der Woche geschehen ist",
+                        "href": null
+                    }
+                ],
+                "is_toggleable": false,
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "8ddcc749-9307-4eec-bb62-0523f59a6b27",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-08T10:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. ",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. ",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "69c196ab-74a1-4762-b49c-b7e2b33e2d1a",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-08T10:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Stet clita kasd",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Stet clita kasd",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "f348949c-f1c8-4b8f-9047-413a3e161801",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-08T10:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "bulleted_list_item",
+            "bulleted_list_item": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Stet clita kasd gubergren",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Stet clita kasd gubergren",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "d2295b06-50ab-4f9a-b3d8-2b91a0b4465a",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-08T10:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "d8091ff3-a155-4f86-a8f1-2e93548384aa",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-08T10:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Quelle: ",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Quelle: ",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Lorem ipsum - Generator und Informationen",
+                            "link": {
+                                "url": "https://www.loremipsum.de/"
+                            }
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Lorem ipsum - Generator und Informationen",
+                        "href": "https://www.loremipsum.de/"
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "17a22682-53ab-80ae-b4e0-dbfcefde421b",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-13T21:19:00.000Z",
+            "last_edited_time": "2025-01-13T21:21:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Übrigens, in der Überschrift ist kein Tippfehler, das ist eine Anlehnung an Psycho Andreas - einen Charakter aus einer alten Folge Frauentausch:\n",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Übrigens, in der Überschrift ist kein Tippfehler, das ist eine Anlehnung an Psycho Andreas - einen Charakter aus einer alten Folge Frauentausch:\n",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "https://www.youtube.com/watch?v=VP6a581Gb3w",
+                            "link": {
+                                "url": "https://www.youtube.com/watch?v=VP6a581Gb3w"
+                            }
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "https://www.youtube.com/watch?v=VP6a581Gb3w",
+                        "href": "https://www.youtube.com/watch?v=VP6a581Gb3w"
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "b77be4f3-027a-44b2-b43f-0b8148095b66",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-08T10:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Mit ",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Mit ",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "❤️",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "❤️",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": " verfasst in Ludwigsburg",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": " verfasst in Ludwigsburg",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "faeaf7c2-859c-4f22-ad79-ae0199882023",
+            "parent": {
+                "type": "page_id",
+                "page_id": "17322682-53ab-8085-899e-f7dbc80fb354"
+            },
+            "created_time": "2025-01-08T10:31:00.000Z",
+            "last_edited_time": "2025-01-08T10:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "e36884f4-d21c-41f1-88f6-87f9cfac148f"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Lukas Preidt - Ausgabe <x>",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Lukas Preidt - Ausgabe <x>",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "block",
+    "block": {},
+    "request_id": "0d28eb93-6cd7-4c56-9627-b9fd34d8f967"
+}
